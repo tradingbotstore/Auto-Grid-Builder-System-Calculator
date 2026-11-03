@@ -1,8 +1,8 @@
-# Auto Grid Builder System V4.2 – Ladder & Risk Calculator
+# Ladder & Risk Calculator for Auto Grid Builder System V4.2 - by Trading Bot Store 
 
 A professional web-based risk and ladder calculation tool designed for multi-zone grid and Dollar-Cost Averaging (DCA) trading strategies, optimized for MetaTrader 5 (MT5) algorithmic trading systems.
 
-🌐 **Live Demo:** [[View Live Calculator](https://your-github-username.github.io/Auto-Grid-Builder-System-Calculator/) *(Replace with your actual GitHub Pages link)*](https://tradingbotstore.github.io/Auto-Grid-Builder-System-Calculator/)
+🌐 **Live Demo:** (https://tradingbotstore.github.io/Auto-Grid-Builder-System-Calculator/)
 
 ---
 
